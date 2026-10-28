@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hey, I'm Marco! 👋
 
-<!--
-**mguillen-dev/mguillen-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**3D/XR Developer • Software Engineer • Open-Source Enthusiast**
 
-Here are some ideas to get you started:
+I'm a software developer passionate about creating immersive digital experiences, exploring computer graphics, and building interactive 3D worlds.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working at the intersection of game development, graphics programming, and software engineering.
+
+---
+
+### 🚀 Currently Exploring
+
+- 🎮 **Game Development** — Creating interactive 3D worlds and gameplay systems.
+- 🦀 **Graphics Programming** — Exploring Rust and developing my own 3D game engine.
+- 🥽 **XR Technologies** — Building immersive VR and AR experiences.
+- 🐧 **Open Source** — Exploring open technologies and contributing to the developer ecosystem.
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+`Rust` · `C#` · `C++` · `JavaScript`
+
+**3D & Game Development**
+
+`Unity` · `Blender` · `XR` · `3D Graphics`
+
+**Web Development**
+
+`React` · `Node.js` · `PostgreSQL`
+
+**Tools & Platforms**
+
+`Linux` · `Git` · `GitHub` · `VS Code`
+
+---
+
+### 🌱 What Drives Me
+
+I believe in open technologies, creative freedom, and building software that empowers developers and creators.
+
+I'm particularly interested in graphics engines, real-time rendering, immersive experiences, and the future of interactive applications.
+
+---
+
+*Always learning, always building.*
